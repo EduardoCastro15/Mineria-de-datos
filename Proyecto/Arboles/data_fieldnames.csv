@@ -1,0 +1,73 @@
+field_name,description
+Obs,Code of observation
+Year_Pub,Year of publication
+Ref,Reference in short form
+Full_ref,Reference in complete form
+Ch_Reg,"Chapter Regions:  1. Africa
+2. Asia
+3. Australia and New Zealand
+4. Europe
+5. Latin America
+6. North America
+7. Polar Regions (Arctic and Antarctic)
+8. Small Islands and Oceans 
+"
+Lat,"Latitude
+"
+Long,Longitude
+Yr_start,Year started
+Yr_end,Year ended
+Duration,Duration of the study (year)
+Category,"Category of Study:   1. cryosphere
+2. hydrology
+3. coastal processes and zones
+4. marine and freshwater biological systems
+5. terrestrial biological systems
+6. agriculture and forestry
+7. human health (no obs)
+8. disasters and hazards (no obs)
+9. socio-economic indicators (no obs)"
+Code,"Code of the Category of Study:  1. cryosphere
+2. hydrology
+3. coastal processes
+4. marine and freshwater biological systems
+5. terrestrial biological systems
+6. agriculture and forestry
+7. human health (no obs)
+8. disasters and hazards (no obs)
+9. socio-economic indicators (no obs)
+"
+SGNFCNT,"significance:  according to the authors of each paper:
+0=no, the impact observed is not statistically significant 
+1=yes, the impact observed is statistically significant
+2=statistics not applied"
+Change,"Direction of Change:  1 = change consistent with warming (with respect with HadCRUT3  temperatures)
+2 = change consistent with cooling
+0 = observation with no change"
+Air_T,"Air Temperature 
+0=no, not statistically related
+1=yes, statistically related
+2= relationship not mentioned"
+SST,"Sea Surface Temperature
+0=no, not statistically related
+1=yes, statistically related
+2= relationship not mentioned"
+Prec,"Precipitation
+0=no
+1=yes
+2= relationship not mentioned"
+AO,"Arctic Oscillation 
+0=no
+1=yes
+2= not mentioned or not clear"
+NAO,"North Atlantic Oscillation
+0=no, not statistically related
+1=yes, statistically related
+2= relationship not mentioned"
+ENSO,"El Nino Souther Oscillation
+0= Authors discount El Nino
+1= Authors say El Nino is a factor
+2= relationship not mentioned"
+Land,"Land Use:  0= Authors Discounted Land Use Change as a factor
+1= Authors suggest land use was a contributing factor
+2= relationship not mentioned"
